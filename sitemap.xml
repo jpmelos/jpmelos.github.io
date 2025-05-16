@@ -4,7 +4,11 @@
         <loc>https://jpmelos.com/</loc>
     </url>
     <url>
-        <loc>https://jpmelos.com/articles/</loc>
+        <loc>https://jpmelos.com/posts/</loc>
+    </url>
+    <url>
+        <loc>https://jpmelos.com/posts/joining-multiple-rust-threads/</loc>
+        <lastmod>2025-05-15</lastmod>
     </url>
     <url>
         <loc>https://jpmelos.com/resume/</loc>
